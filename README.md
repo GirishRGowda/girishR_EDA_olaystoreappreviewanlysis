@@ -1,5 +1,7 @@
 # Play Store App Review Analysis by Girish R
 Abstract:-
+
+
 The Android app market is expanding exponentially while also becoming more competitive; developers are releasing apps on a regular basis, and the variety of apps is expanding.
 In this competitive market, developers must choose, or target segments based on their users' behaviour, because it is the users who instal and use the app and give ratings based on performance, and we can also conclude ratings as customer satisfaction and a KPI to make decisions.
 Developers can make this type of decision by analysing and reviewing the dataset of apps that are currently available and operational in the market.
